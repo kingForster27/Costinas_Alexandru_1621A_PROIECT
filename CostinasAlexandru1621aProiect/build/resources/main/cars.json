@@ -1,0 +1,14 @@
+[
+  {
+    "model": "Audi A3",
+    "combustibil": "Benzina",
+    "numar": "CS78MCA",
+    "an": 2006
+  },
+  {
+    "model": "BMW Q3",
+    "combustibil": "Benzina",
+    "numar": "BH39DSZ",
+    "an": 2016
+  }
+]

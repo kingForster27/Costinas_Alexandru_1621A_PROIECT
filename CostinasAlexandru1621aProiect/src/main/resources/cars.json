@@ -1,0 +1,16 @@
+[ {
+  "model" : "Audi A3",
+  "combustibil" : "Benzina",
+  "numar" : "CS78MCA",
+  "an" : 2010
+}, {
+  "model" : "BMW Q3",
+  "combustibil" : "Benzina",
+  "numar" : "BH39DSZ",
+  "an" : 2016
+}, {
+  "model" : "Dodge",
+  "combustibil" : "GPL",
+  "numar" : "CS22edd",
+  "an" : 2020
+} ]
